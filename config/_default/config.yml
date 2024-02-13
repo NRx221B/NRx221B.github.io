@@ -15,6 +15,6 @@ mainsections: ["posts", "papermod"]
 homeInfoParams:
     Title: "Hi there!👋"
     Content: >
-       Welcome to my Blog!
+     - Welcome to my Blog!
 
       - I will post my thoughts & random stuff here.
