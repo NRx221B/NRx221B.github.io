@@ -12,7 +12,7 @@ enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
 
- homeInfoParams:
+homeInfoParams:
     Title: "Hi there!👋"
     Content: >
        Welcome to my Blog!
