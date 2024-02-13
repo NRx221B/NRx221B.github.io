@@ -1,0 +1,4 @@
+baseURL: "https://nrx221b.github.io/"
+title: metanoia
+paginate: 5
+theme: [PaperMod]
